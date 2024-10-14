@@ -1,0 +1,39 @@
+{
+  "name": "@Lyncx/Canvas",
+  "version": "2.1.0",
+  "description": "Hello ini adalah Code yang sedikit saya update dari base utama yaitu knights canvas",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuadXyro/Canvas.git"
+  },
+  "keywords": [
+    "canvas",
+    "canvas discord",
+    "canvas-discord",
+    "discord-canvas",
+    "discord canvas",
+    "djs",
+    "djs bot",
+    "bot discord",
+    "discord",
+    "html5",
+    "discord js",
+    "herokuapp",
+    "canvix",
+    "FuadXyro",
+    "Zenith"
+  ],
+  "author": "FuadXyro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FuadXyro/Canvas/issues"
+  },
+  "homepage": "https://github.com/FuadXyro/Canvas#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "fortnite-9812": "^1.0.4",
+    "fortnite": "^4.3.2",
+    "moment": "^2.29.1"
+  }
+}
